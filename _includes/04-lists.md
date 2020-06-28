@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+# an unordered list of colors
+- Blue
+- Purple
+- Red 
+- Aqua
+- Pink
+- Grey
